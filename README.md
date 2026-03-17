@@ -5,7 +5,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
 ![Flask](https://img.shields.io/badge/Flask-Web%20App-black?logo=flask)
-![HTML](https://img.shields.io/badge/HTML-Frontend-orange?logo=html5)'
+![HTML](https://img.shields.io/badge/HTML-Frontend-orange?logo=html5)<br>
 🤖An AI-powered system that analyzes job postings using Machine Learning and NLP to identify fake or suspicious job listings, helping users stay safe from online job scams. 🚫💼  
 
 ## output
@@ -38,15 +38,6 @@ ai-fake-job-detector/
 │<br>
 ├── requirements.txt<br>
 ├── README.md
-
-## 🌐 Tech Stack Used
-
-🐍 Python – Core programming language<br>
-📊 Pandas & NumPy – Data processing and analysis<br>
-🤖 Scikit-learn – Machine learning model building <br>
-🧠 NLTK – Natural language processing <br>
-🌐 Flask – Web framework for deployment <br>
-🎨 HTML – Frontend structure and UI <br>
 
 ## ✨ Key Features:
 
